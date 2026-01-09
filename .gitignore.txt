@@ -1,3 +1,0 @@
-.env
-/VideoScraper/v2
-/VideoScraper/logs/*
