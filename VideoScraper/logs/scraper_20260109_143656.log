@@ -1,0 +1,5 @@
+2026-01-09 14:36:56 - pexels_scraper - INFO - setup_logger:65 - Logger 'pexels_scraper' initialized
+2026-01-09 14:36:56 - pexels_scraper - DEBUG - setup_logger:66 - Log files created in: logs/
+2026-01-09 14:36:56 - pexels_scraper - INFO - scrape_pexels:42 - Scraping Pexels for query: grateful fifty-something kitchen
+2026-01-09 14:37:02 - pexels_scraper - INFO - scrape_pexels:42 - Scraping Pexels for query: sad seniors workplace
+2026-01-09 14:37:08 - pexels_scraper - INFO - scrape_pexels:42 - Scraping Pexels for query: frustrated adults classroom

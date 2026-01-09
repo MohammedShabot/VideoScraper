@@ -1,0 +1,6 @@
+2026-01-09 13:25:15 - pexels_scraper - INFO - setup_logger:65 - Logger 'pexels_scraper' initialized
+2026-01-09 13:25:15 - pexels_scraper - DEBUG - setup_logger:66 - Log files created in: logs/
+2026-01-09 13:25:15 - pexels_scraper - INFO - scrape_pexels:36 - Scraping Pexels for query: repulsed seniors office
+2026-01-09 13:25:16 - pexels_scraper - INFO - scrape_pexels:36 - Scraping Pexels for query: cheerful babies living room
+2026-01-09 13:25:16 - pexels_scraper - INFO - scrape_pexels:36 - Scraping Pexels for query: raging adults playground
+2026-01-09 13:25:17 - pexels_scraper - INFO - scrape_pexels:36 - Scraping Pexels for query: loving children spring

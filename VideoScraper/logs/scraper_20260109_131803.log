@@ -1,0 +1,4 @@
+2026-01-09 13:18:03 - pexels_scraper - INFO - setup_logger:65 - Logger 'pexels_scraper' initialized
+2026-01-09 13:18:03 - pexels_scraper - DEBUG - setup_logger:66 - Log files created in: logs/
+2026-01-09 13:18:03 - pexels_scraper - INFO - scrape_pexels:41 - Scraping Pexels for query: optimistic elderly anniversary
+2026-01-09 13:18:03 - pexels_scraper - DEBUG - scrape_pexels:42 - Maximum amount of results: 10

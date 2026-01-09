@@ -1,0 +1,4 @@
+2026-01-09 13:47:37 - pexels_scraper - INFO - setup_logger:65 - Logger 'pexels_scraper' initialized
+2026-01-09 13:47:37 - pexels_scraper - DEBUG - setup_logger:66 - Log files created in: logs/
+2026-01-09 13:47:37 - pexels_scraper - INFO - scrape_pexels:39 - Scraping Pexels for query: appalled teenagers soccer
+2026-01-09 13:47:46 - pexels_scraper - INFO - scrape_pexels:39 - Scraping Pexels for query: furious students playground

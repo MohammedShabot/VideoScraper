@@ -1,0 +1,11 @@
+2026-01-09 13:22:33 - pexels_scraper - INFO - setup_logger:65 - Logger 'pexels_scraper' initialized
+2026-01-09 13:22:33 - pexels_scraper - DEBUG - setup_logger:66 - Log files created in: logs/
+2026-01-09 13:22:33 - pexels_scraper - INFO - scrape_pexels:36 - Scraping Pexels for query: coaxing babies playground
+2026-01-09 13:22:34 - pexels_scraper - INFO - scrape_pexels:36 - Scraping Pexels for query: peaceful pensioner fall
+2026-01-09 13:22:34 - pexels_scraper - INFO - scrape_pexels:36 - Scraping Pexels for query: sad elderly bathroom
+2026-01-09 13:22:35 - pexels_scraper - INFO - scrape_pexels:36 - Scraping Pexels for query: kind thirty-something comforting
+2026-01-09 13:22:35 - pexels_scraper - INFO - scrape_pexels:36 - Scraping Pexels for query: petrified elderly tennis
+2026-01-09 13:22:35 - pexels_scraper - INFO - scrape_pexels:36 - Scraping Pexels for query: raging students circus
+2026-01-09 13:22:36 - pexels_scraper - INFO - scrape_pexels:36 - Scraping Pexels for query: confident elderly conference
+2026-01-09 13:22:36 - pexels_scraper - INFO - scrape_pexels:36 - Scraping Pexels for query: repulsed elderly party
+2026-01-09 13:22:36 - pexels_scraper - INFO - scrape_pexels:36 - Scraping Pexels for query: surprised thirty-something circus

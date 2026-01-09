@@ -1,0 +1,5 @@
+2026-01-09 14:50:51 - pexels_scraper - INFO - setup_logger:65 - Logger 'pexels_scraper' initialized
+2026-01-09 14:50:51 - pexels_scraper - DEBUG - setup_logger:66 - Log files created in: logs/
+2026-01-09 14:50:51 - pexels_scraper - INFO - scrape_pexels:42 - Scraping Pexels for query: embarrassment teenagers fighting
+2026-01-09 14:50:58 - pexels_scraper - INFO - scrape_pexels:42 - Scraping Pexels for query: guilt youth competition
+2026-01-09 14:51:05 - pexels_scraper - INFO - scrape_pexels:42 - Scraping Pexels for query: proud children beach
