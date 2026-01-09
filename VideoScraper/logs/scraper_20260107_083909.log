@@ -1,0 +1,28 @@
+2026-01-07 08:39:09 - vimeo_scraper - INFO - setup_logger:65 - Logger 'vimeo_scraper' initialized
+2026-01-07 08:39:09 - vimeo_scraper - DEBUG - setup_logger:66 - Log files created in: logs/
+2026-01-07 08:39:09 - vimeo_scraper - INFO - __init__:60 - Initialized VimeoScraper with 64125 queries
+2026-01-07 08:39:09 - vimeo_scraper - INFO - search:124 - Processing query 1/64125: site:vimeo.com raging babies bathroom
+2026-01-07 08:39:10 - vimeo_scraper - INFO - search:205 -   Found Vimeo video 1: https://vimeo.com/403102012
+2026-01-07 08:39:10 - vimeo_scraper - INFO - search:205 -   Found Vimeo video 2: https://vimeo.com/430919003
+2026-01-07 08:39:10 - vimeo_scraper - INFO - search:205 -   Found Vimeo video 3: https://vimeo.com/user13490163
+2026-01-07 08:39:10 - vimeo_scraper - INFO - search:205 -   Found Vimeo video 4: https://vimeo.com/250180438
+2026-01-07 08:39:10 - vimeo_scraper - INFO - search:205 -   Found Vimeo video 5: https://vimeo.com/tag:babies
+2026-01-07 08:39:10 - vimeo_scraper - DEBUG - search:219 - Waiting 15.8 seconds before next request...
+2026-01-07 08:39:25 - vimeo_scraper - INFO - search:124 - Processing query 2/64125: site:vimeo.com repulsed adolescents protest
+2026-01-07 08:39:26 - vimeo_scraper - INFO - search:205 -   Found Vimeo video 1: https://vimeo.com/110058506
+2026-01-07 08:39:26 - vimeo_scraper - INFO - search:205 -   Found Vimeo video 2: https://vimeo.com/387333143
+2026-01-07 08:39:26 - vimeo_scraper - INFO - search:205 -   Found Vimeo video 3: https://vimeo.com/340532844
+2026-01-07 08:39:26 - vimeo_scraper - INFO - search:205 -   Found Vimeo video 4: https://vimeo.com/72260435
+2026-01-07 08:39:26 - vimeo_scraper - INFO - search:205 -   Found Vimeo video 5: https://vimeo.com/blog/post/best-comedy-videos
+2026-01-07 08:39:26 - vimeo_scraper - DEBUG - search:219 - Waiting 11.8 seconds before next request...
+2026-01-07 08:39:38 - vimeo_scraper - INFO - search:124 - Processing query 3/64125: site:vimeo.com confident children summer
+2026-01-07 08:39:38 - vimeo_scraper - ERROR - search:169 - CAPTCHA detected! Stopping to avoid IP ban.
+2026-01-07 08:39:38 - vimeo_scraper - ERROR - search:170 - Consider using proxies or reducing request frequency.
+2026-01-07 08:39:38 - vimeo_scraper - INFO - search:254 - 
+Saved 10 videos to data/vimeo_videos_scraped.csv
+2026-01-07 08:39:38 - vimeo_scraper - INFO - search:259 - 
+=== Scraping Statistics ===
+2026-01-07 08:39:38 - vimeo_scraper - INFO - search:260 - Queries processed: 2
+2026-01-07 08:39:38 - vimeo_scraper - INFO - search:261 - Total videos found: 10
+2026-01-07 08:39:38 - vimeo_scraper - INFO - search:262 - Vimeo videos: 10
+2026-01-07 08:39:38 - vimeo_scraper - INFO - search:263 - Errors: 0

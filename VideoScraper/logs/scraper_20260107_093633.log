@@ -1,0 +1,14 @@
+2026-01-07 09:36:33 - youtube_scraper - INFO - setup_logger:65 - Logger 'youtube_scraper' initialized
+2026-01-07 09:36:33 - youtube_scraper - DEBUG - setup_logger:66 - Log files created in: logs/
+2026-01-07 09:36:33 - youtube_scraper - INFO - __init__:59 - Initialized Youtube scraper with 64125 queries
+2026-01-07 09:36:33 - youtube_scraper - INFO - scrape_youtube:113 - 🔍 Starting YouTube search: 'heartbroken seniors party'
+2026-01-07 09:36:33 - youtube_scraper - DEBUG - scrape_youtube:114 -    Max results: 5
+2026-01-07 09:36:33 - youtube_scraper - DEBUG - scrape_youtube:127 - Search URL: ytsearch5:heartbroken seniors party
+2026-01-07 09:36:46 - youtube_scraper - DEBUG - scrape_youtube:135 - Found 5 entries from YouTube
+2026-01-07 09:37:08 - youtube_scraper - DEBUG - scrape_youtube:165 -    Video 1: Crying 😭#prom #graduation #school #breakup #pov #crying #bf #support #bf #alone (22s) desc_len=0
+2026-01-07 09:37:27 - youtube_scraper - DEBUG - scrape_youtube:165 -    Video 2: i love you more than words can express. #college #sister #sad #shorts #public #fyp #viral #school (9s) desc_len=0
+2026-01-07 09:37:50 - youtube_scraper - DEBUG - scrape_youtube:165 -    Video 3: grandma celebrates  birthday alone😔 #emotional #sad (14s) desc_len=0
+2026-01-07 09:38:07 - youtube_scraper - DEBUG - scrape_youtube:165 -    Video 4: Students give teacher epic surprise on last day of school ❤️￼ (22s) desc_len=0
+2026-01-07 09:38:30 - youtube_scraper - DEBUG - scrape_youtube:165 -    Video 5: He cried when someone finally remembered his birthday ❤️ (20s) desc_len=0
+2026-01-07 09:38:30 - youtube_scraper - INFO - scrape_youtube:167 -  YouTube search complete: 5
+2026-01-07 09:38:30 - youtube_scraper - INFO - run_scraper:183 - Successfully scraped Youtube for some links, try to save now

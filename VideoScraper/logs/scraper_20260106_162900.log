@@ -1,0 +1,171 @@
+2026-01-06 16:29:00 - main - INFO - setup_logger:65 - Logger 'main' initialized
+2026-01-06 16:29:00 - main - DEBUG - setup_logger:66 - Log files created in: logs/
+2026-01-06 16:29:00 - main - INFO - __init__:17 - ======================================================================
+2026-01-06 16:29:00 - main - INFO - __init__:18 - EMOTION VIDEO DATASET BUILDER INITIALIZED
+2026-01-06 16:29:00 - main - INFO - __init__:19 - ======================================================================
+2026-01-06 16:29:00 - main - INFO - __init__:20 - CSV path: data/Scraping_Part1_keywords_extended.csv
+2026-01-06 16:29:00 - main - INFO - __init__:21 - Output directory: data/results
+2026-01-06 16:29:00 - main - DEBUG - __init__:24 - Creating output directories...
+2026-01-06 16:29:00 - main - DEBUG - __init__:27 - ✅ Directories created/verified
+2026-01-06 16:29:00 - main - DEBUG - __init__:30 - Initializing QueryGenerator...
+2026-01-06 16:29:00 - query_generator - INFO - setup_logger:65 - Logger 'query_generator' initialized
+2026-01-06 16:29:00 - query_generator - DEBUG - setup_logger:66 - Log files created in: logs/
+2026-01-06 16:29:00 - query_generator - INFO - __init__:14 - ============================================================
+2026-01-06 16:29:00 - query_generator - INFO - __init__:15 - QueryGenerator initialized
+2026-01-06 16:29:00 - query_generator - INFO - __init__:16 - CSV path: data/Scraping_Part1_keywords_extended.csv
+2026-01-06 16:29:00 - query_generator - INFO - __init__:17 - ============================================================
+2026-01-06 16:29:00 - main - DEBUG - __init__:33 - Initializing VideoScraper...
+2026-01-06 16:29:00 - scraper - INFO - setup_logger:65 - Logger 'scraper' initialized
+2026-01-06 16:29:00 - scraper - DEBUG - setup_logger:66 - Log files created in: logs/
+2026-01-06 16:29:00 - scraper - INFO - __init__:26 - ============================================================
+2026-01-06 16:29:00 - scraper - INFO - __init__:27 - VideoScraper initialized
+2026-01-06 16:29:00 - scraper - INFO - __init__:28 - Rate limit delay: 20.0s
+2026-01-06 16:29:00 - scraper - INFO - __init__:29 - Cookies-from-browser: ('firefox',)
+2026-01-06 16:29:00 - scraper - INFO - __init__:30 - ============================================================
+2026-01-06 16:29:00 - main - INFO - __init__:36 - ======================================================================
+2026-01-06 16:29:00 - main - INFO - generate_queries:40 - ======================================================================
+2026-01-06 16:29:00 - main - INFO - generate_queries:41 - STEP 1: QUERY GENERATION
+2026-01-06 16:29:00 - main - INFO - generate_queries:42 - ======================================================================
+2026-01-06 16:29:00 - main - INFO - generate_queries:45 - Start time: 2026-01-06 16:29:00
+2026-01-06 16:29:00 - query_generator - INFO - generate_all_queries:173 - ============================================================
+2026-01-06 16:29:00 - query_generator - INFO - generate_all_queries:174 - STARTING QUERY GENERATION PIPELINE
+2026-01-06 16:29:00 - query_generator - INFO - generate_all_queries:175 - ============================================================
+2026-01-06 16:29:00 - query_generator - INFO - load_csv:25 - Attempting to load CSV: data/Scraping_Part1_keywords_extended.csv
+2026-01-06 16:29:00 - query_generator - DEBUG - load_csv:34 - CSV file size: 1391 bytes (1.36 KB)
+2026-01-06 16:29:00 - query_generator - DEBUG - load_csv:38 - Reading CSV with pandas...
+2026-01-06 16:29:00 - query_generator - INFO - load_csv:42 - ✅ CSV loaded successfully
+2026-01-06 16:29:00 - query_generator - INFO - load_csv:43 -    Rows: 75
+2026-01-06 16:29:00 - query_generator - INFO - load_csv:44 -    Columns: ['Emotion', 'Subject', 'Setting']
+2026-01-06 16:29:00 - query_generator - DEBUG - load_csv:45 -    Memory usage: 10.51 KB
+2026-01-06 16:29:00 - query_generator - DEBUG - load_csv:55 - All required columns present
+2026-01-06 16:29:00 - query_generator - DEBUG - load_csv:58 - Checking data quality...
+2026-01-06 16:29:00 - query_generator - DEBUG - load_csv:62 -    Emotion: 75 unique values, 0 null values
+2026-01-06 16:29:00 - query_generator - DEBUG - load_csv:62 -    Subject: 19 unique values, 56 null values
+2026-01-06 16:29:00 - query_generator - DEBUG - load_csv:62 -    Setting: 45 unique values, 30 null values
+2026-01-06 16:29:00 - query_generator - DEBUG - load_csv:65 - First 3 rows of data:
+2026-01-06 16:29:00 - query_generator - DEBUG - load_csv:67 -    Row 0: {'Emotion': 'accepting', 'Subject': 'children', 'Setting': 'anniversary'}
+2026-01-06 16:29:00 - query_generator - DEBUG - load_csv:67 -    Row 1: {'Emotion': 'adoring', 'Subject': 'youth', 'Setting': 'beach'}
+2026-01-06 16:29:00 - query_generator - DEBUG - load_csv:67 -    Row 2: {'Emotion': 'affectionate', 'Subject': 'adults', 'Setting': 'birthday'}
+2026-01-06 16:29:00 - query_generator - INFO - generate_combinations:83 - Starting combination generation...
+2026-01-06 16:29:00 - query_generator - DEBUG - generate_combinations:91 - Extracting unique values from columns...
+2026-01-06 16:29:00 - query_generator - INFO - generate_combinations:94 -    Extracted 75 unique emotions
+2026-01-06 16:29:00 - query_generator - DEBUG - generate_combinations:95 -    Emotions: ['accepting', 'adoring', 'affectionate', 'amused', 'appreciative']...
+2026-01-06 16:29:00 - query_generator - INFO - generate_combinations:98 -    Extracted 19 unique subjects
+2026-01-06 16:29:00 - query_generator - DEBUG - generate_combinations:99 -    Subjects: ['children', 'youth', 'adults', 'seniors', 'people']...
+2026-01-06 16:29:00 - query_generator - INFO - generate_combinations:102 -    Extracted 45 unique settings
+2026-01-06 16:29:00 - query_generator - DEBUG - generate_combinations:103 -    Settings: ['anniversary', 'beach', 'birthday', 'circus', 'competition']...
+2026-01-06 16:29:00 - query_generator - INFO - generate_combinations:107 - 📊 Total possible combinations: 64,125
+2026-01-06 16:29:00 - query_generator - DEBUG - generate_combinations:110 - Generating Cartesian product...
+2026-01-06 16:29:00 - query_generator - INFO - generate_combinations:113 - ✅ Generated 64,125 combinations
+2026-01-06 16:29:00 - query_generator - DEBUG - generate_combinations:114 - First 3 combinations: [('accepting', 'children', 'anniversary'), ('accepting', 'children', 'beach'), ('accepting', 'children', 'birthday')]
+2026-01-06 16:29:00 - query_generator - INFO - format_queries:127 - Formatting queries with style: 'simple'
+2026-01-06 16:29:00 - query_generator - DEBUG - format_queries:160 -    Formatted 1,000/64,125 queries
+2026-01-06 16:29:00 - query_generator - DEBUG - format_queries:160 -    Formatted 2,000/64,125 queries
+2026-01-06 16:29:00 - query_generator - DEBUG - format_queries:160 -    Formatted 3,000/64,125 queries
+2026-01-06 16:29:00 - query_generator - DEBUG - format_queries:160 -    Formatted 4,000/64,125 queries
+2026-01-06 16:29:00 - query_generator - DEBUG - format_queries:160 -    Formatted 5,000/64,125 queries
+2026-01-06 16:29:00 - query_generator - DEBUG - format_queries:160 -    Formatted 6,000/64,125 queries
+2026-01-06 16:29:00 - query_generator - DEBUG - format_queries:160 -    Formatted 7,000/64,125 queries
+2026-01-06 16:29:00 - query_generator - DEBUG - format_queries:160 -    Formatted 8,000/64,125 queries
+2026-01-06 16:29:00 - query_generator - DEBUG - format_queries:160 -    Formatted 9,000/64,125 queries
+2026-01-06 16:29:00 - query_generator - DEBUG - format_queries:160 -    Formatted 10,000/64,125 queries
+2026-01-06 16:29:00 - query_generator - DEBUG - format_queries:160 -    Formatted 11,000/64,125 queries
+2026-01-06 16:29:00 - query_generator - DEBUG - format_queries:160 -    Formatted 12,000/64,125 queries
+2026-01-06 16:29:00 - query_generator - DEBUG - format_queries:160 -    Formatted 13,000/64,125 queries
+2026-01-06 16:29:00 - query_generator - DEBUG - format_queries:160 -    Formatted 14,000/64,125 queries
+2026-01-06 16:29:00 - query_generator - DEBUG - format_queries:160 -    Formatted 15,000/64,125 queries
+2026-01-06 16:29:00 - query_generator - DEBUG - format_queries:160 -    Formatted 16,000/64,125 queries
+2026-01-06 16:29:00 - query_generator - DEBUG - format_queries:160 -    Formatted 17,000/64,125 queries
+2026-01-06 16:29:00 - query_generator - DEBUG - format_queries:160 -    Formatted 18,000/64,125 queries
+2026-01-06 16:29:00 - query_generator - DEBUG - format_queries:160 -    Formatted 19,000/64,125 queries
+2026-01-06 16:29:00 - query_generator - DEBUG - format_queries:160 -    Formatted 20,000/64,125 queries
+2026-01-06 16:29:00 - query_generator - DEBUG - format_queries:160 -    Formatted 21,000/64,125 queries
+2026-01-06 16:29:00 - query_generator - DEBUG - format_queries:160 -    Formatted 22,000/64,125 queries
+2026-01-06 16:29:00 - query_generator - DEBUG - format_queries:160 -    Formatted 23,000/64,125 queries
+2026-01-06 16:29:00 - query_generator - DEBUG - format_queries:160 -    Formatted 24,000/64,125 queries
+2026-01-06 16:29:00 - query_generator - DEBUG - format_queries:160 -    Formatted 25,000/64,125 queries
+2026-01-06 16:29:00 - query_generator - DEBUG - format_queries:160 -    Formatted 26,000/64,125 queries
+2026-01-06 16:29:00 - query_generator - DEBUG - format_queries:160 -    Formatted 27,000/64,125 queries
+2026-01-06 16:29:00 - query_generator - DEBUG - format_queries:160 -    Formatted 28,000/64,125 queries
+2026-01-06 16:29:00 - query_generator - DEBUG - format_queries:160 -    Formatted 29,000/64,125 queries
+2026-01-06 16:29:00 - query_generator - DEBUG - format_queries:160 -    Formatted 30,000/64,125 queries
+2026-01-06 16:29:00 - query_generator - DEBUG - format_queries:160 -    Formatted 31,000/64,125 queries
+2026-01-06 16:29:00 - query_generator - DEBUG - format_queries:160 -    Formatted 32,000/64,125 queries
+2026-01-06 16:29:00 - query_generator - DEBUG - format_queries:160 -    Formatted 33,000/64,125 queries
+2026-01-06 16:29:00 - query_generator - DEBUG - format_queries:160 -    Formatted 34,000/64,125 queries
+2026-01-06 16:29:00 - query_generator - DEBUG - format_queries:160 -    Formatted 35,000/64,125 queries
+2026-01-06 16:29:00 - query_generator - DEBUG - format_queries:160 -    Formatted 36,000/64,125 queries
+2026-01-06 16:29:00 - query_generator - DEBUG - format_queries:160 -    Formatted 37,000/64,125 queries
+2026-01-06 16:29:00 - query_generator - DEBUG - format_queries:160 -    Formatted 38,000/64,125 queries
+2026-01-06 16:29:00 - query_generator - DEBUG - format_queries:160 -    Formatted 39,000/64,125 queries
+2026-01-06 16:29:00 - query_generator - DEBUG - format_queries:160 -    Formatted 40,000/64,125 queries
+2026-01-06 16:29:00 - query_generator - DEBUG - format_queries:160 -    Formatted 41,000/64,125 queries
+2026-01-06 16:29:00 - query_generator - DEBUG - format_queries:160 -    Formatted 42,000/64,125 queries
+2026-01-06 16:29:00 - query_generator - DEBUG - format_queries:160 -    Formatted 43,000/64,125 queries
+2026-01-06 16:29:00 - query_generator - DEBUG - format_queries:160 -    Formatted 44,000/64,125 queries
+2026-01-06 16:29:00 - query_generator - DEBUG - format_queries:160 -    Formatted 45,000/64,125 queries
+2026-01-06 16:29:00 - query_generator - DEBUG - format_queries:160 -    Formatted 46,000/64,125 queries
+2026-01-06 16:29:00 - query_generator - DEBUG - format_queries:160 -    Formatted 47,000/64,125 queries
+2026-01-06 16:29:00 - query_generator - DEBUG - format_queries:160 -    Formatted 48,000/64,125 queries
+2026-01-06 16:29:00 - query_generator - DEBUG - format_queries:160 -    Formatted 49,000/64,125 queries
+2026-01-06 16:29:00 - query_generator - DEBUG - format_queries:160 -    Formatted 50,000/64,125 queries
+2026-01-06 16:29:00 - query_generator - DEBUG - format_queries:160 -    Formatted 51,000/64,125 queries
+2026-01-06 16:29:00 - query_generator - DEBUG - format_queries:160 -    Formatted 52,000/64,125 queries
+2026-01-06 16:29:00 - query_generator - DEBUG - format_queries:160 -    Formatted 53,000/64,125 queries
+2026-01-06 16:29:00 - query_generator - DEBUG - format_queries:160 -    Formatted 54,000/64,125 queries
+2026-01-06 16:29:00 - query_generator - DEBUG - format_queries:160 -    Formatted 55,000/64,125 queries
+2026-01-06 16:29:00 - query_generator - DEBUG - format_queries:160 -    Formatted 56,000/64,125 queries
+2026-01-06 16:29:00 - query_generator - DEBUG - format_queries:160 -    Formatted 57,000/64,125 queries
+2026-01-06 16:29:00 - query_generator - DEBUG - format_queries:160 -    Formatted 58,000/64,125 queries
+2026-01-06 16:29:00 - query_generator - DEBUG - format_queries:160 -    Formatted 59,000/64,125 queries
+2026-01-06 16:29:00 - query_generator - DEBUG - format_queries:160 -    Formatted 60,000/64,125 queries
+2026-01-06 16:29:00 - query_generator - DEBUG - format_queries:160 -    Formatted 61,000/64,125 queries
+2026-01-06 16:29:00 - query_generator - DEBUG - format_queries:160 -    Formatted 62,000/64,125 queries
+2026-01-06 16:29:00 - query_generator - DEBUG - format_queries:160 -    Formatted 63,000/64,125 queries
+2026-01-06 16:29:00 - query_generator - DEBUG - format_queries:160 -    Formatted 64,000/64,125 queries
+2026-01-06 16:29:00 - query_generator - INFO - format_queries:162 - ✅ Formatted 64,125 queries
+2026-01-06 16:29:00 - query_generator - DEBUG - format_queries:163 - Sample query: {'id': 0, 'query': 'accepting children anniversary', 'emotion': 'accepting', 'subject': 'children', 'setting': 'anniversary', 'scraped': False}
+2026-01-06 16:29:00 - query_generator - INFO - generate_all_queries:194 - ============================================================
+2026-01-06 16:29:00 - query_generator - INFO - generate_all_queries:195 - QUERY GENERATION COMPLETE
+2026-01-06 16:29:00 - query_generator - INFO - generate_all_queries:196 - Total queries: 64,125
+2026-01-06 16:29:00 - query_generator - INFO - generate_all_queries:197 - ============================================================
+2026-01-06 16:29:00 - query_generator - INFO - generate_all_queries:200 - Sample queries (first 5):
+2026-01-06 16:29:00 - query_generator - INFO - generate_all_queries:202 -    0: accepting children anniversary
+2026-01-06 16:29:00 - query_generator - INFO - generate_all_queries:202 -    1: accepting children beach
+2026-01-06 16:29:00 - query_generator - INFO - generate_all_queries:202 -    2: accepting children birthday
+2026-01-06 16:29:00 - query_generator - INFO - generate_all_queries:202 -    3: accepting children circus
+2026-01-06 16:29:00 - query_generator - INFO - generate_all_queries:202 -    4: accepting children competition
+2026-01-06 16:29:00 - main - INFO - generate_queries:55 - Saving queries to: data/results/queries.json
+2026-01-06 16:29:02 - main - INFO - generate_queries:62 - ✅ Queries saved successfully (11183.21 KB)
+2026-01-06 16:29:02 - main - INFO - generate_queries:68 - Query generation complete in 1.51s
+2026-01-06 16:29:02 - main - INFO - generate_queries:69 - ======================================================================
+
+2026-01-06 16:29:02 - main - INFO - scrape_all_queries:81 - ======================================================================
+2026-01-06 16:29:02 - main - INFO - scrape_all_queries:82 - STEP 2: VIDEO SCRAPING
+2026-01-06 16:29:02 - main - INFO - scrape_all_queries:83 - ======================================================================
+2026-01-06 16:29:02 - main - INFO - scrape_all_queries:84 - Total queries: 64,125
+2026-01-06 16:29:02 - main - INFO - scrape_all_queries:85 - Platforms: vimeo
+2026-01-06 16:29:02 - main - INFO - scrape_all_queries:86 - Starting from query: 0
+2026-01-06 16:29:02 - main - INFO - scrape_all_queries:87 - Batch size: 100
+2026-01-06 16:29:02 - main - INFO - scrape_all_queries:88 - ======================================================================
+2026-01-06 16:29:02 - main - INFO - scrape_all_queries:91 - Start time: 2026-01-06 16:29:02
+2026-01-06 16:29:02 - main - INFO - scrape_all_queries:97 - Processing 64,125 queries...
+2026-01-06 16:29:02 - main - INFO - scrape_all_queries:102 - 
+2026-01-06 16:29:02 - main - INFO - scrape_all_queries:103 - ======================================================================
+2026-01-06 16:29:02 - main - INFO - scrape_all_queries:104 - Query [1/64125] (0.0%)
+2026-01-06 16:29:02 - main - INFO - scrape_all_queries:105 - Query: accepting children anniversary
+2026-01-06 16:29:02 - main - INFO - scrape_all_queries:106 - Emotion: accepting | Subject: children | Setting: anniversary
+2026-01-06 16:29:02 - main - INFO - scrape_all_queries:109 - ======================================================================
+2026-01-06 16:29:02 - scraper - INFO - scrape_query:264 - ============================================================
+2026-01-06 16:29:02 - scraper - INFO - scrape_query:265 - SCRAPING QUERY: 'accepting children anniversary'
+2026-01-06 16:29:02 - scraper - INFO - scrape_query:266 - Platforms: ['vimeo']
+2026-01-06 16:29:02 - scraper - INFO - scrape_query:267 - ============================================================
+2026-01-06 16:29:02 - scraper - INFO - scrape_query:272 - Processing platform: vimeo
+2026-01-06 16:29:02 - scraper - INFO - scrape_vimeo:154 - 🔍 Starting Vimeo discovery (DuckDuckGo) for: 'accepting children anniversary'
+2026-01-06 16:29:02 - scraper - DEBUG - scrape_vimeo:155 -    Max results: 5 | Fetch details: True
+2026-01-06 16:29:02 - scraper - DEBUG - scrape_vimeo:170 - DDG POST URL: https://html.duckduckgo.com/html/
+2026-01-06 16:29:02 - scraper - DEBUG - scrape_vimeo:171 - DDG query: site:vimeo.com accepting children anniversary
+2026-01-06 16:29:02 - scraper - DEBUG - scrape_vimeo:174 - DDG status: 202 | bytes: 14242
+2026-01-06 16:29:02 - scraper - INFO - scrape_vimeo:207 - ✅ DuckDuckGo discovered 0 Vimeo video URLs
+2026-01-06 16:29:02 - scraper - INFO - scrape_vimeo:211 - ✅ Vimeo discovery+enrichment complete: 0 videos in 0.56s
+2026-01-06 16:29:02 - scraper - DEBUG - scrape_query:285 - Rate limiting: waiting 20.0s...

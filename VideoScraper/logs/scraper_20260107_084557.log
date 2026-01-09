@@ -1,0 +1,25 @@
+2026-01-07 08:45:57 - vimeo_scraper - INFO - setup_logger:65 - Logger 'vimeo_scraper' initialized
+2026-01-07 08:45:57 - vimeo_scraper - DEBUG - setup_logger:66 - Log files created in: logs/
+2026-01-07 08:45:57 - vimeo_scraper - INFO - __init__:62 - Initialized VimeoScraper with 64125 queries
+2026-01-07 08:45:57 - vimeo_scraper - INFO - search:221 - Using Selenium mode (slower but avoids CAPTCHA)
+2026-01-07 08:45:57 - vimeo_scraper - INFO - search:224 - Processing query 1/64125: site:vimeo.com coaxing retiree sports
+2026-01-07 08:46:16 - vimeo_scraper - INFO - _search_with_selenium:193 -   Found Vimeo video 1: https://vimeo.com/477212142
+2026-01-07 08:46:16 - vimeo_scraper - INFO - _search_with_selenium:193 -   Found Vimeo video 2: https://vimeo.com/categories/sports
+2026-01-07 08:46:16 - vimeo_scraper - INFO - _search_with_selenium:193 -   Found Vimeo video 3: https://vimeo.com/1126220818
+2026-01-07 08:46:16 - vimeo_scraper - INFO - _search_with_selenium:193 -   Found Vimeo video 4: https://vimeo.com/1068225026
+2026-01-07 08:46:16 - vimeo_scraper - INFO - _search_with_selenium:193 -   Found Vimeo video 5: https://vimeo.com/tag:catfight
+2026-01-07 08:46:19 - vimeo_scraper - INFO - search:241 - Waiting 34.4 seconds before next query...
+2026-01-07 08:46:53 - vimeo_scraper - INFO - search:224 - Processing query 2/64125: site:vimeo.com frustrated people comforting
+2026-01-07 08:47:13 - vimeo_scraper - INFO - _search_with_selenium:193 -   Found Vimeo video 1: https://vimeo.com/431731210
+2026-01-07 08:47:13 - vimeo_scraper - INFO - _search_with_selenium:193 -   Found Vimeo video 2: https://vimeo.com/896787431
+2026-01-07 08:47:13 - vimeo_scraper - INFO - _search_with_selenium:193 -   Found Vimeo video 3: https://vimeo.com/411428179
+2026-01-07 08:47:13 - vimeo_scraper - INFO - _search_with_selenium:193 -   Found Vimeo video 4: https://vimeo.com/103373559
+2026-01-07 08:47:13 - vimeo_scraper - INFO - _search_with_selenium:193 -   Found Vimeo video 5: https://vimeo.com/750134840
+2026-01-07 08:47:16 - vimeo_scraper - INFO - search:241 - Waiting 44.0 seconds before next query...
+2026-01-07 08:48:00 - vimeo_scraper - INFO - search:224 - Processing query 3/64125: site:vimeo.com irritated students competition
+2026-01-07 08:48:19 - vimeo_scraper - INFO - _search_with_selenium:193 -   Found Vimeo video 1: https://vimeo.com/63427818
+2026-01-07 08:48:19 - vimeo_scraper - INFO - _search_with_selenium:193 -   Found Vimeo video 2: https://vimeo.com/899626792
+2026-01-07 08:48:19 - vimeo_scraper - INFO - _search_with_selenium:193 -   Found Vimeo video 3: https://vimeo.com/929084789
+2026-01-07 08:48:19 - vimeo_scraper - INFO - _search_with_selenium:193 -   Found Vimeo video 4: https://vimeo.com/120564893
+2026-01-07 08:48:19 - vimeo_scraper - INFO - _search_with_selenium:193 -   Found Vimeo video 5: https://vimeo.com/user239492312
+2026-01-07 08:48:22 - vimeo_scraper - INFO - search:241 - Waiting 34.3 seconds before next query...

@@ -1,0 +1,2 @@
+.env
+/VideoScraper/v2

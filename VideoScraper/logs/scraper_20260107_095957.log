@@ -1,0 +1,6 @@
+2026-01-07 09:59:57 - youtube_scraper - INFO - setup_logger:65 - Logger 'youtube_scraper' initialized
+2026-01-07 09:59:57 - youtube_scraper - DEBUG - setup_logger:66 - Log files created in: logs/
+2026-01-07 09:59:57 - youtube_scraper - INFO - __init__:60 - Initialized Youtube scraper with 64125 queries
+2026-01-07 09:59:57 - youtube_scraper - INFO - scrape_youtube:114 - 🔍 Starting YouTube search: 'fuming seniors city'
+2026-01-07 09:59:57 - youtube_scraper - DEBUG - scrape_youtube:115 -    Max results: 5
+2026-01-07 09:59:57 - youtube_scraper - DEBUG - scrape_youtube:128 - Search URL: ytsearch5:fuming seniors city

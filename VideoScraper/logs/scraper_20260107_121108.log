@@ -1,0 +1,5 @@
+2026-01-07 12:11:08 - youtube_scraper - INFO - setup_logger:65 - Logger 'youtube_scraper' initialized
+2026-01-07 12:11:08 - youtube_scraper - DEBUG - setup_logger:66 - Log files created in: logs/
+2026-01-07 12:11:08 - youtube_scraper - INFO - __init__:63 - Initialized Youtube scraper with 64125 queries
+2026-01-07 12:11:08 - youtube_scraper - INFO - scrape_youtube:120 - 🔍 Starting YouTube search: 'accepting adolescents conference'
+2026-01-07 12:11:08 - youtube_scraper - DEBUG - scrape_youtube:121 -    Max results: 5

@@ -1,0 +1,159 @@
+2026-01-07 12:13:23 - youtube_scraper - INFO - setup_logger:65 - Logger 'youtube_scraper' initialized
+2026-01-07 12:13:23 - youtube_scraper - DEBUG - setup_logger:66 - Log files created in: logs/
+2026-01-07 12:13:23 - youtube_scraper - INFO - __init__:63 - Initialized Youtube scraper with 64125 queries
+2026-01-07 12:13:23 - youtube_scraper - INFO - scrape_youtube:120 - 🔍 Starting YouTube search: 'guilt pensioner desert'
+2026-01-07 12:13:23 - youtube_scraper - DEBUG - scrape_youtube:121 -    Max results: 5
+2026-01-07 12:13:28 - youtube_scraper - DEBUG - scrape_youtube:139 - Search URL: ytsearch5:guilt pensioner desert
+2026-01-07 12:13:41 - youtube_scraper - DEBUG - scrape_youtube:147 - Found 5 entries from YouTube
+2026-01-07 12:13:41 - youtube_scraper - DEBUG - scrape_youtube:173 -    Video 1: 4 Doctor-Approved Snacks for Gut & Liver Health You NEED to Try ‼️ (50s) desc_len=0
+2026-01-07 12:13:41 - youtube_scraper - DEBUG - scrape_youtube:173 -    Video 2: Do not file for divorce unless you are sure about this (56s) desc_len=1926
+2026-01-07 12:13:41 - youtube_scraper - DEBUG - scrape_youtube:173 -    Video 3: Health Ministry rescues senior citizen living the Namib Desert - NBC (131s) desc_len=0
+2026-01-07 12:13:41 - youtube_scraper - DEBUG - scrape_youtube:173 -    Video 4: mr. acker refuses kim's $18,000 offer | Better Call Saul #shorts (36s) desc_len=1494
+2026-01-07 12:13:41 - youtube_scraper - DEBUG - scrape_youtube:173 -    Video 5: I Made The Ultimate Carnivore Diet Recipe (57s) desc_len=1060
+2026-01-07 12:13:41 - youtube_scraper - INFO - scrape_youtube:175 -  YouTube search complete: 5
+2026-01-07 12:13:41 - youtube_scraper - INFO - run_scraper:222 - Successfully scraped Youtube for some links, try to save now
+2026-01-07 12:13:41 - youtube_scraper - INFO - run_scraper:232 - Saving information for url: https://www.youtube.com/watch?v=VpDG4HAT-DA
+2026-01-07 12:13:41 - youtube_scraper - INFO - run_scraper:232 - Saving information for url: https://www.youtube.com/watch?v=eaDopEbIY4E
+2026-01-07 12:13:41 - youtube_scraper - INFO - run_scraper:232 - Saving information for url: https://www.youtube.com/watch?v=-nfSz2cdSH4
+2026-01-07 12:13:41 - youtube_scraper - INFO - run_scraper:232 - Saving information for url: https://www.youtube.com/watch?v=nlleLaOxMVQ
+2026-01-07 12:13:41 - youtube_scraper - INFO - run_scraper:232 - Saving information for url: https://www.youtube.com/watch?v=Rd-iykRs6zw
+2026-01-07 12:13:41 - youtube_scraper - INFO - run_scraper:236 - Video's saved in Excel and CSV format
+2026-01-07 12:13:41 - youtube_scraper - INFO - scrape_youtube:120 - 🔍 Starting YouTube search: 'content thirty-something office'
+2026-01-07 12:13:41 - youtube_scraper - DEBUG - scrape_youtube:121 -    Max results: 5
+2026-01-07 12:13:45 - youtube_scraper - DEBUG - scrape_youtube:139 - Search URL: ytsearch5:content thirty-something office
+2026-01-07 12:13:58 - youtube_scraper - DEBUG - scrape_youtube:147 - Found 5 entries from YouTube
+2026-01-07 12:13:58 - youtube_scraper - DEBUG - scrape_youtube:173 -    Video 1: Mel Robbins Message Will Change Your LIFE | Motivational Video (22s) desc_len=443
+2026-01-07 12:13:58 - youtube_scraper - DEBUG - scrape_youtube:173 -    Video 2: Excel Trick to Copy entire work sheet with this easy method #excelshorts (23s) desc_len=155
+2026-01-07 12:13:58 - youtube_scraper - DEBUG - scrape_youtube:173 -    Video 3: This Is Your Sign To Start Content Creation (22s) desc_len=642
+2026-01-07 12:13:58 - youtube_scraper - DEBUG - scrape_youtube:173 -    Video 4: Oprah Winfrey-Learn How To Become A Smart Women With 7 Principles |Oprah Winfrey Motivational Speech (1858s) desc_len=3864
+2026-01-07 12:13:58 - youtube_scraper - DEBUG - scrape_youtube:173 -    Video 5: When she doesn’t look her age… 😳😅😂 #shorts (33s) desc_len=161
+2026-01-07 12:13:58 - youtube_scraper - INFO - scrape_youtube:175 -  YouTube search complete: 5
+2026-01-07 12:13:58 - youtube_scraper - INFO - run_scraper:222 - Successfully scraped Youtube for some links, try to save now
+2026-01-07 12:13:58 - youtube_scraper - INFO - run_scraper:232 - Saving information for url: https://www.youtube.com/watch?v=AJpErm8H2aU
+2026-01-07 12:13:58 - youtube_scraper - INFO - run_scraper:232 - Saving information for url: https://www.youtube.com/watch?v=_AdX2nza3X4
+2026-01-07 12:13:58 - youtube_scraper - INFO - run_scraper:232 - Saving information for url: https://www.youtube.com/watch?v=gxbKPQqKmmQ
+2026-01-07 12:13:58 - youtube_scraper - INFO - run_scraper:232 - Saving information for url: https://www.youtube.com/watch?v=ZUFtbEyg6gY
+2026-01-07 12:13:58 - youtube_scraper - INFO - run_scraper:232 - Saving information for url: https://www.youtube.com/watch?v=fzXj_JiDMWw
+2026-01-07 12:13:58 - youtube_scraper - INFO - run_scraper:236 - Video's saved in Excel and CSV format
+2026-01-07 12:13:58 - youtube_scraper - INFO - scrape_youtube:120 - 🔍 Starting YouTube search: 'awe seniors museum'
+2026-01-07 12:13:58 - youtube_scraper - DEBUG - scrape_youtube:121 -    Max results: 5
+2026-01-07 12:14:03 - youtube_scraper - DEBUG - scrape_youtube:139 - Search URL: ytsearch5:awe seniors museum
+2026-01-07 12:14:15 - youtube_scraper - DEBUG - scrape_youtube:147 - Found 5 entries from YouTube
+2026-01-07 12:14:15 - youtube_scraper - DEBUG - scrape_youtube:173 -    Video 1: City Canvas: Art With Elders Exhibition at City Hall (316s) desc_len=938
+2026-01-07 12:14:15 - youtube_scraper - DEBUG - scrape_youtube:173 -    Video 2: Appraisal: 1960 GMT Master Model Rolex with Box & Papers (228s) desc_len=1082
+2026-01-07 12:14:15 - youtube_scraper - DEBUG - scrape_youtube:173 -    Video 3: Looking at Lowry with Timothy Spall | L.S Lowry Exhibition (1489s) desc_len=961
+2026-01-07 12:14:15 - youtube_scraper - DEBUG - scrape_youtube:173 -    Video 4: Take a look inside this spooky museum, if you dare (272s) desc_len=1664
+2026-01-07 12:14:15 - youtube_scraper - DEBUG - scrape_youtube:173 -    Video 5: AWE-INSPIRING ARCHITECTURE: National Gallery Singapore, Civic District, Singapore (564s) desc_len=1095
+2026-01-07 12:14:15 - youtube_scraper - INFO - scrape_youtube:175 -  YouTube search complete: 5
+2026-01-07 12:14:15 - youtube_scraper - INFO - run_scraper:222 - Successfully scraped Youtube for some links, try to save now
+2026-01-07 12:14:15 - youtube_scraper - INFO - run_scraper:232 - Saving information for url: https://www.youtube.com/watch?v=tWc9w-0tMd8
+2026-01-07 12:14:15 - youtube_scraper - INFO - run_scraper:232 - Saving information for url: https://www.youtube.com/watch?v=li0mRLcGbU8
+2026-01-07 12:14:15 - youtube_scraper - INFO - run_scraper:232 - Saving information for url: https://www.youtube.com/watch?v=4qbEMnmO8ns
+2026-01-07 12:14:15 - youtube_scraper - INFO - run_scraper:232 - Saving information for url: https://www.youtube.com/watch?v=DSjCoZMOemc
+2026-01-07 12:14:15 - youtube_scraper - INFO - run_scraper:232 - Saving information for url: https://www.youtube.com/watch?v=XxQuchnFpQ8
+2026-01-07 12:14:15 - youtube_scraper - INFO - run_scraper:236 - Video's saved in Excel and CSV format
+2026-01-07 12:14:15 - youtube_scraper - INFO - scrape_youtube:120 - 🔍 Starting YouTube search: 'worry teenagers kitchen'
+2026-01-07 12:14:15 - youtube_scraper - DEBUG - scrape_youtube:121 -    Max results: 5
+2026-01-07 12:14:19 - youtube_scraper - DEBUG - scrape_youtube:139 - Search URL: ytsearch5:worry teenagers kitchen
+2026-01-07 12:14:32 - youtube_scraper - DEBUG - scrape_youtube:147 - Found 5 entries from YouTube
+2026-01-07 12:14:32 - youtube_scraper - DEBUG - scrape_youtube:173 -    Video 1: How Do You Overcome Kitchen Fear To Cook Easy Meals? - Teenager Guide to Life (166s) desc_len=2073
+2026-01-07 12:14:32 - youtube_scraper - DEBUG - scrape_youtube:173 -    Video 2: WAKE UP 🗣️🗣️🗣️🗣️ @c4energy #c4partner #family #mom (22s) desc_len=0
+2026-01-07 12:14:32 - youtube_scraper - DEBUG - scrape_youtube:173 -    Video 3: What made your PARENTS BEG FOR...  #shorts (179s) desc_len=75
+2026-01-07 12:14:32 - youtube_scraper - DEBUG - scrape_youtube:173 -    Video 4: Me vs my Mom cooking edition #shorts (12s) desc_len=73
+2026-01-07 12:14:32 - youtube_scraper - DEBUG - scrape_youtube:173 -    Video 5: How to stay calm under pressure - Noa Kageyama and Pen-Pen Chen (268s) desc_len=1696
+2026-01-07 12:14:32 - youtube_scraper - INFO - scrape_youtube:175 -  YouTube search complete: 5
+2026-01-07 12:14:32 - youtube_scraper - INFO - run_scraper:222 - Successfully scraped Youtube for some links, try to save now
+2026-01-07 12:14:32 - youtube_scraper - INFO - run_scraper:232 - Saving information for url: https://www.youtube.com/watch?v=bZmsVBEu8Rc
+2026-01-07 12:14:32 - youtube_scraper - INFO - run_scraper:232 - Saving information for url: https://www.youtube.com/watch?v=OdC0WxJ3g6E
+2026-01-07 12:14:32 - youtube_scraper - INFO - run_scraper:232 - Saving information for url: https://www.youtube.com/watch?v=vjI1EWMbtBw
+2026-01-07 12:14:32 - youtube_scraper - INFO - run_scraper:232 - Saving information for url: https://www.youtube.com/watch?v=y-mAoqzyfoQ
+2026-01-07 12:14:32 - youtube_scraper - INFO - run_scraper:232 - Saving information for url: https://www.youtube.com/watch?v=CqgmozFr_GM
+2026-01-07 12:14:32 - youtube_scraper - INFO - run_scraper:236 - Video's saved in Excel and CSV format
+2026-01-07 12:14:32 - youtube_scraper - INFO - scrape_youtube:120 - 🔍 Starting YouTube search: 'fearful elderly kissing'
+2026-01-07 12:14:32 - youtube_scraper - DEBUG - scrape_youtube:121 -    Max results: 5
+2026-01-07 12:14:37 - youtube_scraper - DEBUG - scrape_youtube:139 - Search URL: ytsearch5:fearful elderly kissing
+2026-01-07 12:14:48 - youtube_scraper - DEBUG - scrape_youtube:147 - Found 5 entries from YouTube
+2026-01-07 12:14:48 - youtube_scraper - DEBUG - scrape_youtube:173 -    Video 1: I love my old man 💕 #couple #oldlove (15s) desc_len=0
+2026-01-07 12:14:48 - youtube_scraper - DEBUG - scrape_youtube:173 -    Video 2: Spider-Girl KISS💋🥴 #maryjane  #kiss #girl #girlfriend #women #lgbt #lesbian #romantic #spiderman (8s) desc_len=0
+2026-01-07 12:14:48 - youtube_scraper - DEBUG - scrape_youtube:173 -    Video 3: Two female CLOWNS FRENCH KISSING ❤️💋 (6s) desc_len=139
+2026-01-07 12:14:48 - youtube_scraper - DEBUG - scrape_youtube:173 -    Video 4: #justkeepingitreal #hospicenurse #hospice #nurse #endoflife #normalizedeath #nursehumor (6s) desc_len=0
+2026-01-07 12:14:48 - youtube_scraper - DEBUG - scrape_youtube:173 -    Video 5: Tired of Bath Time Struggles? Try the Baby Bath Standing Shower!#Shorts (7s) desc_len=567
+2026-01-07 12:14:48 - youtube_scraper - INFO - scrape_youtube:175 -  YouTube search complete: 5
+2026-01-07 12:14:48 - youtube_scraper - INFO - run_scraper:222 - Successfully scraped Youtube for some links, try to save now
+2026-01-07 12:14:48 - youtube_scraper - INFO - run_scraper:232 - Saving information for url: https://www.youtube.com/watch?v=0gjaJSvM_Xw
+2026-01-07 12:14:48 - youtube_scraper - INFO - run_scraper:232 - Saving information for url: https://www.youtube.com/watch?v=rcem17bI7CA
+2026-01-07 12:14:48 - youtube_scraper - INFO - run_scraper:232 - Saving information for url: https://www.youtube.com/watch?v=hawz1z64GKw
+2026-01-07 12:14:48 - youtube_scraper - INFO - run_scraper:232 - Saving information for url: https://www.youtube.com/watch?v=WdpmJVIGPE8
+2026-01-07 12:14:48 - youtube_scraper - INFO - run_scraper:232 - Saving information for url: https://www.youtube.com/watch?v=ZDPV3PiqAas
+2026-01-07 12:14:48 - youtube_scraper - INFO - run_scraper:236 - Video's saved in Excel and CSV format
+2026-01-07 12:14:48 - youtube_scraper - INFO - scrape_youtube:120 - 🔍 Starting YouTube search: 'desiring elderly fighting'
+2026-01-07 12:14:48 - youtube_scraper - DEBUG - scrape_youtube:121 -    Max results: 5
+2026-01-07 12:14:53 - youtube_scraper - DEBUG - scrape_youtube:139 - Search URL: ytsearch5:desiring elderly fighting
+2026-01-07 12:15:06 - youtube_scraper - DEBUG - scrape_youtube:147 - Found 5 entries from YouTube
+2026-01-07 12:15:06 - youtube_scraper - DEBUG - scrape_youtube:173 -    Video 1: When You Wake Up at Night with a Panic over You | John Piper Clip (59s) desc_len=151
+2026-01-07 12:15:06 - youtube_scraper - DEBUG - scrape_youtube:173 -    Video 2: The Strength of a Godly Woman | John Piper Clip (59s) desc_len=147
+2026-01-07 12:15:06 - youtube_scraper - DEBUG - scrape_youtube:173 -    Video 3: The Only Cure for Resentment (130s) desc_len=462
+2026-01-07 12:15:06 - youtube_scraper - DEBUG - scrape_youtube:173 -    Video 4: Abusive tough guy picks fight w the WRONG GUY! #jiujitsu #mma #ufc #joerogan #fight #flight (58s) desc_len=0
+2026-01-07 12:15:06 - youtube_scraper - DEBUG - scrape_youtube:173 -    Video 5: John Piper - How should I deal with parents who don't acknowledge that they abused me? (352s) desc_len=23
+2026-01-07 12:15:06 - youtube_scraper - INFO - scrape_youtube:175 -  YouTube search complete: 5
+2026-01-07 12:15:06 - youtube_scraper - INFO - run_scraper:222 - Successfully scraped Youtube for some links, try to save now
+2026-01-07 12:15:06 - youtube_scraper - INFO - run_scraper:232 - Saving information for url: https://www.youtube.com/watch?v=jpwA82TdFQY
+2026-01-07 12:15:06 - youtube_scraper - INFO - run_scraper:232 - Saving information for url: https://www.youtube.com/watch?v=tNlIoCeGyLk
+2026-01-07 12:15:06 - youtube_scraper - INFO - run_scraper:232 - Saving information for url: https://www.youtube.com/watch?v=MS2VuBtQ-rk
+2026-01-07 12:15:06 - youtube_scraper - INFO - run_scraper:232 - Saving information for url: https://www.youtube.com/watch?v=qHErS-xG_QU
+2026-01-07 12:15:06 - youtube_scraper - INFO - run_scraper:232 - Saving information for url: https://www.youtube.com/watch?v=Ed46WaTSA7E
+2026-01-07 12:15:06 - youtube_scraper - INFO - run_scraper:236 - Video's saved in Excel and CSV format
+2026-01-07 12:15:06 - youtube_scraper - INFO - scrape_youtube:120 - 🔍 Starting YouTube search: 'remorse midlife beach'
+2026-01-07 12:15:06 - youtube_scraper - DEBUG - scrape_youtube:121 -    Max results: 5
+2026-01-07 12:15:10 - youtube_scraper - DEBUG - scrape_youtube:139 - Search URL: ytsearch5:remorse midlife beach
+2026-01-07 12:15:23 - youtube_scraper - DEBUG - scrape_youtube:147 - Found 5 entries from YouTube
+2026-01-07 12:15:23 - youtube_scraper - DEBUG - scrape_youtube:173 -    Video 1: Abraham Hicks 2023 #shorts - Don't EVER Try to fix it instead Do This (57s) desc_len=712
+2026-01-07 12:15:23 - youtube_scraper - DEBUG - scrape_youtube:173 -    Video 2: Have you seen Instow beach in North Devon?. (90s) desc_len=1050
+2026-01-07 12:15:23 - youtube_scraper - DEBUG - scrape_youtube:173 -    Video 3: 4 Beautiful Days in Mykonos, Greek Island: Mykonos Town, Delos Island, Ornos Beach (990s) desc_len=2284
+2026-01-07 12:15:23 - youtube_scraper - DEBUG - scrape_youtube:173 -    Video 4: Life’s a beach… and then you marry one! (781s) desc_len=918
+2026-01-07 12:15:23 - youtube_scraper - DEBUG - scrape_youtube:173 -    Video 5: 7 Reasons People Regret Their Decision To Retire in France | Cons and Cost of Living. (836s) desc_len=4188
+2026-01-07 12:15:23 - youtube_scraper - INFO - scrape_youtube:175 -  YouTube search complete: 5
+2026-01-07 12:15:23 - youtube_scraper - INFO - run_scraper:222 - Successfully scraped Youtube for some links, try to save now
+2026-01-07 12:15:23 - youtube_scraper - INFO - run_scraper:232 - Saving information for url: https://www.youtube.com/watch?v=JeGYuFJISgI
+2026-01-07 12:15:23 - youtube_scraper - INFO - run_scraper:232 - Saving information for url: https://www.youtube.com/watch?v=y21qmwyvmpc
+2026-01-07 12:15:23 - youtube_scraper - INFO - run_scraper:232 - Saving information for url: https://www.youtube.com/watch?v=Te5XxS1I0f0
+2026-01-07 12:15:23 - youtube_scraper - INFO - run_scraper:232 - Saving information for url: https://www.youtube.com/watch?v=1WB8oeY2gRE
+2026-01-07 12:15:23 - youtube_scraper - INFO - run_scraper:232 - Saving information for url: https://www.youtube.com/watch?v=3BDD9sQSM0o
+2026-01-07 12:15:23 - youtube_scraper - INFO - run_scraper:236 - Video's saved in Excel and CSV format
+2026-01-07 12:15:23 - youtube_scraper - INFO - scrape_youtube:120 - 🔍 Starting YouTube search: 'embarrassment adults bathroom'
+2026-01-07 12:15:23 - youtube_scraper - DEBUG - scrape_youtube:121 -    Max results: 5
+2026-01-07 12:15:28 - youtube_scraper - DEBUG - scrape_youtube:139 - Search URL: ytsearch5:embarrassment adults bathroom
+2026-01-07 12:15:40 - youtube_scraper - DEBUG - scrape_youtube:147 - Found 5 entries from YouTube
+2026-01-07 12:15:40 - youtube_scraper - DEBUG - scrape_youtube:173 -    Video 1: 🫣Awkward moments 😂 Toilet situations 😂#english #learnenglish (56s) desc_len=0
+2026-01-07 12:15:40 - youtube_scraper - DEBUG - scrape_youtube:173 -    Video 2: The Most Awkward Situation 🤦🏽‍♀️😅 || Funny moments By One More (13s) desc_len=26
+2026-01-07 12:15:40 - youtube_scraper - DEBUG - scrape_youtube:173 -    Video 3: The best 💩 of her life… #nyc #bathroom #embarrassing (48s) desc_len=0
+2026-01-07 12:15:40 - youtube_scraper - DEBUG - scrape_youtube:173 -    Video 4: Awkward moment #youtubeshorts #funny #comedy #youtube #travel (23s) desc_len=0
+2026-01-07 12:15:40 - youtube_scraper - DEBUG - scrape_youtube:173 -    Video 5: Embarrassing moments 😩 #skits #bathroom (8s) desc_len=98
+2026-01-07 12:15:40 - youtube_scraper - INFO - scrape_youtube:175 -  YouTube search complete: 5
+2026-01-07 12:15:40 - youtube_scraper - INFO - run_scraper:222 - Successfully scraped Youtube for some links, try to save now
+2026-01-07 12:15:40 - youtube_scraper - INFO - run_scraper:232 - Saving information for url: https://www.youtube.com/watch?v=E4ocfcOSlhQ
+2026-01-07 12:15:40 - youtube_scraper - INFO - run_scraper:232 - Saving information for url: https://www.youtube.com/watch?v=d_tDCVOZyxw
+2026-01-07 12:15:40 - youtube_scraper - INFO - run_scraper:232 - Saving information for url: https://www.youtube.com/watch?v=q5ZLzEnJ3W0
+2026-01-07 12:15:40 - youtube_scraper - INFO - run_scraper:232 - Saving information for url: https://www.youtube.com/watch?v=7yUgocFybxk
+2026-01-07 12:15:40 - youtube_scraper - INFO - run_scraper:232 - Saving information for url: https://www.youtube.com/watch?v=U_d6vqlpqho
+2026-01-07 12:15:40 - youtube_scraper - INFO - run_scraper:236 - Video's saved in Excel and CSV format
+2026-01-07 12:15:40 - youtube_scraper - INFO - scrape_youtube:120 - 🔍 Starting YouTube search: 'coaxing children beach'
+2026-01-07 12:15:40 - youtube_scraper - DEBUG - scrape_youtube:121 -    Max results: 5
+2026-01-07 12:15:44 - youtube_scraper - DEBUG - scrape_youtube:139 - Search URL: ytsearch5:coaxing children beach
+2026-01-07 12:15:56 - youtube_scraper - DEBUG - scrape_youtube:147 - Found 5 entries from YouTube
+2026-01-07 12:15:56 - youtube_scraper - DEBUG - scrape_youtube:173 -    Video 1: Running into the Ocean...not understanding the ocean. (52s) desc_len=161
+2026-01-07 12:15:56 - youtube_scraper - DEBUG - scrape_youtube:173 -    Video 2: I'm coaxing children to catch prawns and shrimps, and I'm full of harvest. Qingdao to catch sea (33s) desc_len=95
+2026-01-07 12:15:56 - youtube_scraper - DEBUG - scrape_youtube:173 -    Video 3: Grace at the Beach (55s) desc_len=88
+2026-01-07 12:15:56 - youtube_scraper - DEBUG - scrape_youtube:173 -    Video 4: Beach Bunny Mia (270s) desc_len=170
+2026-01-07 12:15:56 - youtube_scraper - DEBUG - scrape_youtube:173 -    Video 5: Pet snake loves scratches (12s) desc_len=778
+2026-01-07 12:15:56 - youtube_scraper - INFO - scrape_youtube:175 -  YouTube search complete: 5
+2026-01-07 12:15:56 - youtube_scraper - INFO - run_scraper:222 - Successfully scraped Youtube for some links, try to save now
+2026-01-07 12:15:56 - youtube_scraper - INFO - run_scraper:232 - Saving information for url: https://www.youtube.com/watch?v=6uM41ImnTig
+2026-01-07 12:15:56 - youtube_scraper - INFO - run_scraper:232 - Saving information for url: https://www.youtube.com/watch?v=HsX9usCUOx0
+2026-01-07 12:15:56 - youtube_scraper - INFO - run_scraper:232 - Saving information for url: https://www.youtube.com/watch?v=k5a0-ETV_YU
+2026-01-07 12:15:56 - youtube_scraper - INFO - run_scraper:232 - Saving information for url: https://www.youtube.com/watch?v=lua6_Z8axSQ
+2026-01-07 12:15:56 - youtube_scraper - INFO - run_scraper:232 - Saving information for url: https://www.youtube.com/watch?v=-OsUa-HGoek
+2026-01-07 12:15:56 - youtube_scraper - INFO - run_scraper:236 - Video's saved in Excel and CSV format
+2026-01-07 12:15:56 - youtube_scraper - INFO - scrape_youtube:120 - 🔍 Starting YouTube search: 'proud thirty-something summer'
+2026-01-07 12:15:56 - youtube_scraper - DEBUG - scrape_youtube:121 -    Max results: 5
+2026-01-07 12:16:01 - youtube_scraper - DEBUG - scrape_youtube:139 - Search URL: ytsearch5:proud thirty-something summer
